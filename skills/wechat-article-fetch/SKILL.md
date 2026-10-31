@@ -7,7 +7,7 @@ description: 抓取微信公众号文章，转换为 Markdown，并自动清洗�
 
 将微信公众号文章抓取为 Markdown，并自动清理广告和格式问题。
 
-脚本与本文件同目录：`wechat_article_to_md.py`。缺少依赖时先执行 `pip install -r requirements.txt`（`requests`、`beautifulsoup4`）。
+脚本与本文件同目录：`wechat_article_to_md.py`。缺少依赖时，在该目录执行 `pip install -r requirements.txt`。
 
 ## 工作流
 
